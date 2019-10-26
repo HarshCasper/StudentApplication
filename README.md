@@ -1,4 +1,8 @@
 # StudentApplication
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/89cdbb63958a4c86b52dbb09280a76c5)](https://www.codacy.com/manual/HarshCasper/StudentApplication?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=HarshCasper/StudentApplication&amp;utm_campaign=Badge_Grade)
+
+
 This is a C implementation of a Student Educational Loan where the user needs to enter his personal and academic details and all his data are stored in an External File which can be viewed and deleted later.
 
 ## User-Defined Functions used: 
